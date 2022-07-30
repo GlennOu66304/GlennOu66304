@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working From Home
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on Node.js MangonDB React Vue Next.js
+
